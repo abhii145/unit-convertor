@@ -1,0 +1,23 @@
+
+
+
+body{
+    background-color: blanchedalmond;
+    font-family: tahoma;
+}
+
+
+h1{
+
+    text-align: center;
+    margin-top: 50px;
+}
+
+#container{
+    margin: 0 auto;
+    width:80%;
+    text-align: center;
+background-color: lightblue;
+border-radius: 10px;
+}
+
